@@ -7,6 +7,4 @@ Here is more information I added using a new pull request.
 
 Further changes to test issues/pullrequests/projects.
 
-<ul>
 Go to the <a href="https://james-hunter.github.io">Homepage</a>
-</ul>
